@@ -7,3 +7,9 @@ Thank for suing my application !!!
 
 Best regard,
 Sokkheang Huo
+
+# install tool: 
+https://drive.google.com/file/d/1btOy6TdUN50LsrPlpl_7VWNF0hXZEZXk/view?usp=sharing
+
+# binary file: 
+https://drive.google.com/file/d/1btOy6TdUN50LsrPlpl_7VWNF0hXZEZXk/view?usp=sharing
