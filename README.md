@@ -9,7 +9,7 @@ Best regard,
 Sokkheang Huo
 
 # install tool: 
-https://drive.google.com/file/d/1btOy6TdUN50LsrPlpl_7VWNF0hXZEZXk/view?usp=sharing
+https://drive.google.com/file/d/1btOy6TdUN50LsrPlpl_7VWNF0hXZEZXk/view?usp=drivesdk
 
 # binary tool: 
 https://drive.google.com/file/d/18ojaz0al6Nqwsu-9afGzh_MAvJ7Y4-bN/view?usp=drivesdk
