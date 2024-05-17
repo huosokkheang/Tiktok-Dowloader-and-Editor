@@ -12,7 +12,7 @@ Sokkheang Huo
 https://drive.google.com/file/d/1btOy6TdUN50LsrPlpl_7VWNF0hXZEZXk/view?usp=sharing
 
 # binary tool: 
-https://drive.google.com/file/d/1btOy6TdUN50LsrPlpl_7VWNF0hXZEZXk/view?usp=sharing
+https://drive.google.com/file/d/18ojaz0al6Nqwsu-9afGzh_MAvJ7Y4-bN/view?usp=drivesdk
 
 # Download from Tiktok Profile
 ![image](https://github.com/huosokkheang/Tiktok-Dowloader-and-Editor/assets/35053923/610f5da3-137d-4cb2-b7b4-cc3da9213a6c)
