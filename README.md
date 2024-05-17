@@ -9,10 +9,10 @@ Best regard,
 Sokkheang Huo
 
 # install tool: 
-https://drive.google.com/file/d/1btOy6TdUN50LsrPlpl_7VWNF0hXZEZXk/view?usp=drivesdk
+https://drive.google.com/file/d/1EUELGYuhgfHtz_bbqwgU8gAczQBMJXY3/view?usp=sharing
 
 # binary tool: 
-https://drive.google.com/file/d/18ojaz0al6Nqwsu-9afGzh_MAvJ7Y4-bN/view?usp=drivesdk
+https://drive.google.com/file/d/1xRPwHraRJk2wArsCFSnJhcKPjnOE5fsz/view?usp=sharing
 
 # Download from Tiktok Profile
 ![image](https://github.com/huosokkheang/Tiktok-Dowloader-and-Editor/assets/35053923/610f5da3-137d-4cb2-b7b4-cc3da9213a6c)
